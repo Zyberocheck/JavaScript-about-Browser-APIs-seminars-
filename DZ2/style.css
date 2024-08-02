@@ -1,0 +1,37 @@
+body {
+  background: black;
+  color: white;
+}
+
+.toggles {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  height: 300px;
+}
+
+img {
+  width: 300px;
+  display: none;
+}
+
+.oneImg {
+  display: block;
+}
+
+.containerView {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.togglesBtn {
+  border-radius: 50px;
+  height: 15px;
+}/*# sourceMappingURL=style.css.map */
